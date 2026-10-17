@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <cloud-backup>
+        <include domain="file" path="data/important_data.json"/>
+        <include domain="sharedpref" path="shared_prefs/important_prefs.xml"
+            tools:ignore="FullBackupContent" />
+    </cloud-backup>
+</data-extraction-rules>

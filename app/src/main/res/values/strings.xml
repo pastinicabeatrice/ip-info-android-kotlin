@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IPGeolocator</string>
+    <string name="app_title">Aplicație IPGeolocator</string>
+
+    <string name="welcome_message">Bun venit în aplicația care furnizează informații despre țara din care provine produsul în baza IP-ului!</string>
+    <string name="enter_ip">Introdu IP</string>
+    <string name="settings">Setări</string>
+    <string name="menu">Meniu</string>
+    <string name="close">Închide</string>
+    <string name="close_menu">Închide</string>
+
+    <string name="drawer_open">Deschide meniul de navigare</string>
+    <string name="drawer_close">Închide meniul de navigare</string>
+    <string name="back_to_menu">Înapoi la Meniu</string>
+    <string name="back">Înapoi</string>
+
+    <string name="enter_ip_title">Introduceți un IP:</string>
+    <string name="ip_input_hint">Ex: 192.168.1.1</string>
+    <string name="error_empty_field">Câmpul nu poate fi gol!</string>
+    <string name="error_invalid_ip">Format IP invalid! Introduceți un IP valid (ex: 192.168.1.1)</string>
+    <string name="submit">Trimite</string>
+
+    <string name="country_info_title">Informații pentru IP: %s</string>
+    <string name="loading">Se încarcă...</string>
+    <string name="local_ip_error">Adresa IP introdusă este locală și nu poate fi localizată prin API.</string>
+    <string name="no_info_found">Nu s-au găsit informații pentru IP-ul introdus.</string>
+    <string name="error_fetching_data">Eroare la preluarea datelor: %s</string>
+    <string name="country_format">Țară: %s</string>
+    <string name="region_format">Regiune: %s</string>
+    <string name="city_format">Oraș: %s</string>
+    <string name="unknown">Necunoscut</string>
+    <string name="unknown_location">Locație necunoscută</string>
+
+    <string name="ip_history">Istoric IP-uri</string>
+    <string name="ip_history_empty">Nu există istoric</string>
+    <string name="ip_status_valid">IP Valid</string>
+    <string name="ip_status_invalid">IP Invalid</string>
+
+    <string name="theme_dark">Temă întunecată</string>
+    <string name="language">Limbă</string>
+    <string name="language_ro">Română</string>
+    <string name="language_en">English</string>
+    <string name="language_fr">Français</string>
+    <string name="language_es">Español</string>
+    <string name="text_size">Dimensiune text</string>
+    <string name="text_size_scale">Scală: %.1f</string>
+    <string name="last_modified">Ultima modificare: %s</string>
+
+    <string name="json_processing">Prelucrare JSON</string>
+    <string name="processing_type">Tip procesare</string>
+    <string name="auto_processing">Procesare automată</string>
+    <string name="complexity_rating">Evaluare complexitate:</string>
+    <string name="rating_format">Rating: %d/5</string>
+    <string name="process_json">Procesează JSON</string>
+    <string name="json_processing_error">Eroare la procesarea JSON: %s</string>
+
+    <string name="devices_found">Dispozitive găsite:</string>
+    <string name="device_number">Dispozitiv %d:</string>
+    <string name="device_ip">IP: %s</string>
+    <string name="device_name">Nume: %s</string>
+    <string name="device_manufacturer">Producător: %s</string>
+    <string name="device_specs">Specificații:</string>
+    <string name="device_ram">  - RAM: %s</string>
+    <string name="device_cpu">  - CPU: %s</string>
+    <string name="device_status">Status: %s</string>
+    <string name="device_uptime">Uptime: %s</string>
+    <string name="device_load">Încărcare: %d%%</string>
+    <string name="status_online">Online</string>
+    <string name="status_offline">Offline</string>
+
+    <string name="async_operations">Operații Asincrone</string>
+    <string name="async_select_date">Selectează data programării</string>
+    <string name="async_date_selected">Data programată: %s</string>
+    <string name="async_start">Pornește progresul</string>
+    <string name="async_progress">Progres: %d%%</string>
+    <string name="async_scheduled">Operație programată pentru:\n%s</string>
+    <string name="async_operation_complete">Operație completată cu succes!</string>
+    <string name="async_error">Eroare: %s</string>
+
+    <string name="app_icon_desc">Iconița aplicației</string>
+    <string name="menu_icon_desc">Buton meniu</string>
+    <string name="ip_input_desc">Câmp pentru introducerea adresei IP</string>
+    <string name="submit_desc">Buton pentru trimiterea adresei IP</string>
+    <string name="back_desc">Buton pentru întoarcerea la meniul principal</string>
+
+    <string name="visual_style">Stil vizual</string>
+    <string name="style_default">Default</string>
+    <string name="style_modern">Modern</string>
+    <string name="style_classic">Classic</string>
+    <string name="style_minimalist">Minimalist</string>
+
+    <string name="language_selection">Selectare limbă</string>
+    <string name="style_selection">Selectare stil vizual</string>
+    <string name="text_size_slider">Ajustare dimensiune text</string>
+    <string name="text_size_value">Valoarea dimensiunii textului</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Anulează</string>
+    <string name="save">Salvează</string>
+    <string name="delete">Șterge</string>
+</resources>
